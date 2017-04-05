@@ -15,7 +15,7 @@ import com.android.volley.toolbox.Volley;
 
 public class AppSingleton {
 
-    private static  AppSingleton m_AppSingleTonInstance;  //crating an object
+    private static  AppSingleton m_AppSingleTonInstance;  //crating an object okay?
 
     private RequestQueue mRequestQueue; //need request queue for handling every request
     private ImageLoader mImageLoader;  // Object of  ImageLoader
