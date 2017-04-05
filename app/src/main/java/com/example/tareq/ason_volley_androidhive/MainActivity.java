@@ -18,8 +18,7 @@ import android.widget.TextView;
 import com.android.volley.Response;
 import com.android.volley.toolbox.StringRequest;
 
-public class MainActivity extends AppCompatActivity implements View.OnClickListener{
-
+public class MainActivity extends AppCompatActivity implements View.OnClickListener{//this is the parent activity
     Button btnJson,btnString,btnImage;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
