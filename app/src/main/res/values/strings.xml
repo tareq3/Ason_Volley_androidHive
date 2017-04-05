@@ -4,4 +4,6 @@
     <string name="btn_string">click</string>
     <string name="btn_json">json</string>
     <string name="btn_image">Image</string>
+    <string name="btn_json_obj_request">json_obj_request</string>
+    <string name="btn_json_array_request">json_array_request</string>
 </resources>

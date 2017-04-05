@@ -51,9 +51,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 break;
             case R.id.btnJsonRequest:
 
-              /*  startActivity(new Intent(MainActivity.this,
+                startActivity(new Intent(MainActivity.this,
                         JsonRequestActivity.class));
-              */  break;
+                break;
             case R.id.btnImageRequest:
                 startActivity(new Intent(MainActivity.this,
                         ImageRequestActivity.class));
