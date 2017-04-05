@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Ason_Volley_androidHive</string>
     <string name="action_settings">Settings</string>
+    <string name="btn_string">click</string>
+    <string name="btn_json">json</string>
+    <string name="btn_image">Image</string>
 </resources>
